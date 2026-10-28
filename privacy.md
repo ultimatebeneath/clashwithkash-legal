@@ -2,11 +2,11 @@
 title: Privacy Policy
 ---
 
-# Privacy Policy: Clash with Kash Bases
+# Privacy Policy: Clash with Kash
 
 Effective date: 28 October 2026
 
-Clash with Kash Bases ("the app") is an unofficial fan app for Clash of Clans players. This policy explains what the app does with information.
+Clash with Kash (shown as “CWK” on your device) is an unofficial fan app for Clash of Clans players. This policy explains what the app does with information.
 
 ## What we collect
 
