@@ -2,11 +2,11 @@
 title: Terms of Service
 ---
 
-# Terms of Service: Clash with Kash Bases
+# Terms of Service: Clash with Kash
 
 Effective date: 28 October 2026
 
-By using the Clash with Kash Bases app ("the app") you agree to these terms.
+By using the Clash with Kash app ("the app") you agree to these terms.
 
 ## Unofficial fan app
 
